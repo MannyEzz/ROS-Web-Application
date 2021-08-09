@@ -25,4 +25,4 @@ Some components are developed to interface with the robot whether by publishing 
 
 
 
-Note: For more information check the Readme in  package.
+Note: For more information check the Readme in react-ros-robot package.
